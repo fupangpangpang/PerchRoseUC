@@ -222,7 +222,7 @@ parent.append("svg:g")
     cw.append("svg:text")
         .attr("transform", "translate(" + visWidth + "," + (visWidth+5) + ")")
         .attr("class", "calmcaption")
-        .text("KENYA 50%PNEU_Prior");
+        .text("KENYA 50%PNEU");
 }
 
 
