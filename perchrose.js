@@ -34,22 +34,22 @@ var perchrose =
 {"month":0,"Order":8,"Pathogen":"FLU_B","Prob":0.009111328},
 {"month":0,"Order":9,"Pathogen":"FLU_A","Prob":0.019679859},
 {"month":0,"Order":10,"Pathogen":"HMPV","Prob":0.048711823},
-{"month":0,"Order":11,"Pathogen":"HBOV","Prob":0.005377825},
-{"month":0,"Order":12,"Pathogen":"FLU_C","Prob":0.001896199},
-{"month":0,"Order":13,"Pathogen":"COR_HKU","Prob":0.002409374},
-{"month":0,"Order":14,"Pathogen":"COR_63","Prob":0.002830511},
-{"month":0,"Order":15,"Pathogen":"COR_43","Prob":0.004360891},
-{"month":0,"Order":16,"Pathogen":"COR_229","Prob":0.002367356},
-{"month":0,"Order":17,"Pathogen":"CMV","Prob":0.011454672},
-{"month":0,"Order":18,"Pathogen":"ADENO","Prob":0.028671156},
-{"month":0,"Order":19,"Pathogen":"PCP","Prob":0.010148242},
-{"month":0,"Order":20,"Pathogen":"M_PNEU","Prob":0.00400991},
-{"month":0,"Order":21,"Pathogen":"C_PNEU","Prob":0.002294151},
-{"month":0,"Order":22,"Pathogen":"BORD","Prob":0.002769557},
-{"month":0,"Order":23,"Pathogen":"SAUR","Prob":0.018443344},
-{"month":0,"Order":24,"Pathogen":"SASP","Prob":0.006187527},
-{"month":0,"Order":25,"Pathogen":"PNEU","Prob":0.269283854},
-{"month":0,"Order":26,"Pathogen":"MCAT","Prob":0.009974873},
+{"month":0,"Order":22,"Pathogen":"HBOV","Prob":0.005377825},
+{"month":0,"Order":11,"Pathogen":"FLU_C","Prob":0.001896199},
+{"month":0,"Order":12,"Pathogen":"COR_HKU","Prob":0.002409374},
+{"month":0,"Order":13,"Pathogen":"COR_63","Prob":0.002830511},
+{"month":0,"Order":23,"Pathogen":"COR_43","Prob":0.004360891},
+{"month":0,"Order":24,"Pathogen":"COR_229","Prob":0.002367356},
+{"month":0,"Order":25,"Pathogen":"CMV","Prob":0.011454672},
+{"month":0,"Order":14,"Pathogen":"ADENO","Prob":0.028671156},
+{"month":0,"Order":15,"Pathogen":"PCP","Prob":0.010148242},
+{"month":0,"Order":26,"Pathogen":"M_PNEU","Prob":0.00400991},
+{"month":0,"Order":16,"Pathogen":"C_PNEU","Prob":0.002294151},
+{"month":0,"Order":17,"Pathogen":"BORD","Prob":0.002769557},
+{"month":0,"Order":18,"Pathogen":"SAUR","Prob":0.018443344},
+{"month":0,"Order":19,"Pathogen":"SASP","Prob":0.006187527},
+{"month":0,"Order":20,"Pathogen":"PNEU","Prob":0.269283854},
+{"month":0,"Order":21,"Pathogen":"MCAT","Prob":0.009974873},
 {"month":0,"Order":27,"Pathogen":"HINF","Prob":0.02901662},
 {"month":1,"Order":1,"Pathogen":"RSV","Prob":0.238039658},
 {"month":1,"Order":2,"Pathogen":"RHINO","Prob":0.161406958},
@@ -61,22 +61,22 @@ var perchrose =
 {"month":1,"Order":8,"Pathogen":"FLU_B","Prob":0.009218478},
 {"month":1,"Order":9,"Pathogen":"FLU_A","Prob":0.021722972},
 {"month":1,"Order":10,"Pathogen":"HMPV","Prob":0.051205253},
-{"month":1,"Order":11,"Pathogen":"HBOV","Prob":0.005275128},
-{"month":1,"Order":12,"Pathogen":"FLU_C","Prob":0.001786624},
-{"month":1,"Order":13,"Pathogen":"COR_HKU","Prob":0.002443197},
-{"month":1,"Order":14,"Pathogen":"COR_63","Prob":0.003095477},
-{"month":1,"Order":15,"Pathogen":"COR_43","Prob":0.004494933},
-{"month":1,"Order":16,"Pathogen":"COR_229","Prob":0.002243786},
-{"month":1,"Order":17,"Pathogen":"CMV","Prob":0.010954825},
-{"month":1,"Order":18,"Pathogen":"ADENO","Prob":0.030368907},
-{"month":1,"Order":19,"Pathogen":"PCP","Prob":0.00991401},
-{"month":1,"Order":20,"Pathogen":"M_PNEU","Prob":0.004193928},
-{"month":1,"Order":21,"Pathogen":"C_PNEU","Prob":0.002402609},
-{"month":1,"Order":22,"Pathogen":"BORD","Prob":0.003196188},
-{"month":1,"Order":23,"Pathogen":"SAUR","Prob":0.019325734},
-{"month":1,"Order":24,"Pathogen":"SASP","Prob":0.006121435},
-{"month":1,"Order":25,"Pathogen":"PNEU","Prob":0.29076374},
-{"month":1,"Order":26,"Pathogen":"MCAT","Prob":0.011125089},
+{"month":1,"Order":22,"Pathogen":"HBOV","Prob":0.005275128},
+{"month":1,"Order":11,"Pathogen":"FLU_C","Prob":0.001786624},
+{"month":1,"Order":12,"Pathogen":"COR_HKU","Prob":0.002443197},
+{"month":1,"Order":13,"Pathogen":"COR_63","Prob":0.003095477},
+{"month":1,"Order":23,"Pathogen":"COR_43","Prob":0.004494933},
+{"month":1,"Order":24,"Pathogen":"COR_229","Prob":0.002243786},
+{"month":1,"Order":25,"Pathogen":"CMV","Prob":0.010954825},
+{"month":1,"Order":14,"Pathogen":"ADENO","Prob":0.030368907},
+{"month":1,"Order":15,"Pathogen":"PCP","Prob":0.00991401},
+{"month":1,"Order":26,"Pathogen":"M_PNEU","Prob":0.004193928},
+{"month":1,"Order":16,"Pathogen":"C_PNEU","Prob":0.002402609},
+{"month":1,"Order":17,"Pathogen":"BORD","Prob":0.003196188},
+{"month":1,"Order":18,"Pathogen":"SAUR","Prob":0.019325734},
+{"month":1,"Order":19,"Pathogen":"SASP","Prob":0.006121435},
+{"month":1,"Order":20,"Pathogen":"PNEU","Prob":0.29076374},
+{"month":1,"Order":21,"Pathogen":"MCAT","Prob":0.011125089},
 {"month":1,"Order":27,"Pathogen":"HINF","Prob":0.029113437},
 {"month":2,"Order":1,"Pathogen":"RSV","Prob":0.199026609},
 {"month":2,"Order":2,"Pathogen":"RHINO","Prob":0.166216266},
@@ -88,22 +88,22 @@ var perchrose =
 {"month":2,"Order":8,"Pathogen":"FLU_B","Prob":0.008972119},
 {"month":2,"Order":9,"Pathogen":"FLU_A","Prob":0.02280506},
 {"month":2,"Order":10,"Pathogen":"HMPV","Prob":0.053049099},
-{"month":2,"Order":11,"Pathogen":"HBOV","Prob":0.00497685},
-{"month":2,"Order":12,"Pathogen":"FLU_C","Prob":0.001893461},
-{"month":2,"Order":13,"Pathogen":"COR_HKU","Prob":0.00234212},
-{"month":2,"Order":14,"Pathogen":"COR_63","Prob":0.003533141},
-{"month":2,"Order":15,"Pathogen":"COR_43","Prob":0.004468763},
-{"month":2,"Order":16,"Pathogen":"COR_229","Prob":0.002567026},
-{"month":2,"Order":17,"Pathogen":"CMV","Prob":0.010948736},
-{"month":2,"Order":18,"Pathogen":"ADENO","Prob":0.031864326},
-{"month":2,"Order":19,"Pathogen":"PCP","Prob":0.010611565},
-{"month":2,"Order":20,"Pathogen":"M_PNEU","Prob":0.004034561},
-{"month":2,"Order":21,"Pathogen":"C_PNEU","Prob":0.002701006},
-{"month":2,"Order":22,"Pathogen":"BORD","Prob":0.003289463},
-{"month":2,"Order":23,"Pathogen":"SAUR","Prob":0.020225006},
-{"month":2,"Order":24,"Pathogen":"SASP","Prob":0.006492517},
-{"month":2,"Order":25,"Pathogen":"PNEU","Prob":0.311730901},
-{"month":2,"Order":26,"Pathogen":"MCAT","Prob":0.011726681},
+{"month":2,"Order":22,"Pathogen":"HBOV","Prob":0.00497685},
+{"month":2,"Order":11,"Pathogen":"FLU_C","Prob":0.001893461},
+{"month":2,"Order":12,"Pathogen":"COR_HKU","Prob":0.00234212},
+{"month":2,"Order":13,"Pathogen":"COR_63","Prob":0.003533141},
+{"month":2,"Order":23,"Pathogen":"COR_43","Prob":0.004468763},
+{"month":2,"Order":24,"Pathogen":"COR_229","Prob":0.002567026},
+{"month":2,"Order":25,"Pathogen":"CMV","Prob":0.010948736},
+{"month":2,"Order":14,"Pathogen":"ADENO","Prob":0.031864326},
+{"month":2,"Order":15,"Pathogen":"PCP","Prob":0.010611565},
+{"month":2,"Order":26,"Pathogen":"M_PNEU","Prob":0.004034561},
+{"month":2,"Order":16,"Pathogen":"C_PNEU","Prob":0.002701006},
+{"month":2,"Order":17,"Pathogen":"BORD","Prob":0.003289463},
+{"month":2,"Order":18,"Pathogen":"SAUR","Prob":0.020225006},
+{"month":2,"Order":19,"Pathogen":"SASP","Prob":0.006492517},
+{"month":2,"Order":20,"Pathogen":"PNEU","Prob":0.311730901},
+{"month":2,"Order":21,"Pathogen":"MCAT","Prob":0.011726681},
 {"month":2,"Order":27,"Pathogen":"HINF","Prob":0.030011352}]
 
 // Convert a dictionary of {direction: total} to frequencies
@@ -115,7 +115,7 @@ var months = [];
 for(var i = 1; i < 12; i++) {
   months.push(false);
 }
-months[0]=true
+months[1]=true
 
 function rollupForMonths(d, months) {
     var ret = {}
@@ -123,7 +123,7 @@ function rollupForMonths(d, months) {
     var obs = d.length
     for (var i=0;i<obs;i +=1) { 
         var month = d[i].month;
-        if (!months[month-1]) { continue; }
+        if (!months[month]) { continue; }
         
         var direction = d[i].Order*360/pathogennumber;
         var prob = d[i].Prob;
@@ -340,12 +340,12 @@ var RSV =0
         .on("click", function(d,i) {
         if (RSV ==0) {
         months[0]=false
-        months[1]=true
+        months[2]=true
         RSV = 1
         }
         else {
         months[0]=true
-        months[1]=false
+        months[2]=false
         RSV = 0
         }
         rollup = rollupForMonths(perchrose, months);
